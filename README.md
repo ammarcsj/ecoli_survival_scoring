@@ -1,10 +1,10 @@
 # Ecoli Survival Scoring
 
-This repository contains the code as well as the necessary data to re-create the Bioinformatics analyses in the manuscript  <em>Analysis of proteome adaptation reveals a key role of the bacterial envelope in starvation survival.</em> by [Schink et al.](https://www.biorxiv.org/content/10.1101/2022.05.18.492425v1.abstract). To this end, multiple proteomics dataset are analysed in order to determine proteins that show overall correlation with starvation survival.
+This repository contains the code as well as the necessary data to re-create the Bioinformatics analyses in the manuscript  <em>Analysis of proteome adaptation reveals a key role of the bacterial envelope in starvation survival.</em> by [Schink et al.](https://www.biorxiv.org/content/10.1101/2022.05.18.492425v1.abstract) To this end, multiple proteomics dataset are analysed in order to determine proteins that show overall correlation with starvation survival.
 
 
 
-<figure><img src="data/figures/method_box.jpg"><figcaption>image caption</figcaption></figure>
+<figure><img src="data/figures/method_box.jpg" width="50%"><figcaption>Summary of the steps performed in scoring the proteins. See manuscript for a detailed description.</figcaption></figure>
 
 ### Repository contents
 
