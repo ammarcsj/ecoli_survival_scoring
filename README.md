@@ -4,7 +4,7 @@ This repository contains the code as well as the necessary data to re-create the
 
 
 
-<figure><img src="data/figures/method_box.pdf"><figcaption>image caption</figcaption></figure>
+<figure><img src="data/figures/method_box.jpg"><figcaption>image caption</figcaption></figure>
 
 ### Repository contents
 
