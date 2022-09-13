@@ -16,8 +16,10 @@ This repository contains the code as well as the necessary data to re-create the
 
 * code folder: Contains Jupyter Notebooks (and some helper classes in Python files) that create the results tables of the study.
 
-### Re-creating the analyses
+### Inspectring the data
 If you only want to inspect the data, click on the green "Code" button on the upper right and select "Download Zip". After you have downloaded the zip file, you can unpack it and navigate through the data with your standard file browser.
+
+### Re-creating the analyses
 If you additionally want to run the code, install Python and the necessary packages as detailed below and then follow the instuctions given in the Jupyter Notebooks. The Notebooks are enumerated and you can follow the order indicated there.
 
 ### Code requirements
