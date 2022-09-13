@@ -1,0 +1,52 @@
+go-name	term	setsize	num.sig	fdr	pval	direction	median_z_target	median_z_bg	expected	target_dist	background_dist
+membrane protein complex	GO:0098796	38	38	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+plasma membrane protein complex	GO:0098797	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein-DNA complex	GO:0032993	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecular complex	GO:0032991	172	172	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+external encapsulating structure	GO:0030312	26	26	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell envelope	GO:0030313	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cytosolic ribosome	GO:0022626	51	51	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cytosolic small ribosomal subunit	GO:0022627	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cytosolic large ribosomal subunit	GO:0022625	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase complex	GO:1990204	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+outer membrane-bounded periplasmic space	GO:0030288	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase complex	GO:1990234	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+plasma membrane respiratory chain	GO:0070470	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+respiratory chain complex	GO:0098803	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+catalytic complex	GO:1902494	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transmembrane transporter complex	GO:1902495	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell division site	GO:0032153	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+respiratory chain	GO:0070469	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATPase complex	GO:1904949	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoprotein complex	GO:1990904	54	54	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+side of membrane	GO:0098552	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cytoplasmic side of membrane	GO:0098562	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATPase dependent transmembrane transport complex	GO:0098533	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell projection	GO:0042995	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+outer membrane	GO:0019867	26	26	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+extrinsic component of membrane	GO:0019898	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+extrinsic component of plasma membrane	GO:0019897	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cytosolic part	GO:0044445	65	65	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intracellular organelle part	GO:0044446	53	53	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+external encapsulating structure part	GO:0044462	26	26	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organelle part	GO:0044422	57	57	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell outer membrane	GO:0009279	26	26	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATP-binding cassette (ABC) transporter complex	GO:0043190	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+small ribosomal subunit	GO:0015935	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+large ribosomal subunit	GO:0015934	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intracellular organelle	GO:0043229	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organelle	GO:0043226	61	61	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+non-membrane-bounded organelle	GO:0043228	59	59	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intrinsic component of cell outer membrane	GO:0031230	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intracellular non-membrane-bounded organelle	GO:0043232	56	56	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein complex	GO:0043234	64	64	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosome	GO:0005840	52	52	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intracellular ribonucleoprotein complex	GO:0030529	53	53	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell surface	GO:0009986	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+external side of plasma membrane	GO:0009897	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cytoplasmic side of plasma membrane	GO:0009898	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+envelope	GO:0031975	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+periplasmic space	GO:0042597	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transporter complex	GO:1990351	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing	GO:0055052	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosomal subunit	GO:0044391	51	51	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null

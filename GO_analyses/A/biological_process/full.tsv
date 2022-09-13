@@ -1,0 +1,467 @@
+go-name	term	setsize	num.sig	fdr	pval	direction	median_z_target	median_z_bg	expected	target_dist	background_dist
+phospholipid metabolic process	GO:0006644	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+fatty acid metabolic process	GO:0006631	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipid metabolic process	GO:0006629	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+dicarboxylic acid metabolic process	GO:0043648	31	31	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+dicarboxylic acid biosynthetic process	GO:0043650	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate biosynthetic process	GO:0016051	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate catabolic process	GO:0016052	32	32	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic acid biosynthetic process	GO:0016053	101	101	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic acid catabolic process	GO:0016054	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to extracellular stimulus	GO:0031668	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to nutrient levels	GO:0031669	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipid catabolic process	GO:0016042	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular component organization	GO:0016043	112	112	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to nutrient levels	GO:0031667	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amide biosynthetic process	GO:0043604	59	59	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular amide metabolic process	GO:0043603	73	73	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+coenzyme metabolic process	GO:0006732	59	59	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreduction coenzyme metabolic process	GO:0006733	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+vitamin metabolic process	GO:0006766	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+water-soluble vitamin metabolic process	GO:0006767	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside phosphate metabolic process	GO:0006753	64	64	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sulfur compound metabolic process	GO:0006790	43	43	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphorus metabolic process	GO:0006793	99	99	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphate-containing compound metabolic process	GO:0006796	93	93	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of biological quality	GO:0065008	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecular complex assembly	GO:0065003	73	73	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of molecular function	GO:0065009	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA metabolic process	GO:0016070	59	59	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+rRNA metabolic process	GO:0016072	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tRNA modification	GO:0006400	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA catabolic process	GO:0006401	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+translation	GO:0006412	46	46	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein folding	GO:0006457	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of translation	GO:0006417	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tRNA aminoacylation for protein translation	GO:0006418	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecule modification	GO:0043412	26	26	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecule methylation	GO:0043414	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein complex assembly	GO:0006461	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular protein modification process	GO:0006464	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein phosphorylation	GO:0006468	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tRNA metabolic process	GO:0006399	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA processing	GO:0006396	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of cellular biosynthetic process	GO:0031327	39	39	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of cellular biosynthetic process	GO:0031328	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of cellular metabolic process	GO:0031325	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular biosynthetic process	GO:0031326	61	61	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular metabolic process	GO:0031323	71	71	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of cellular metabolic process	GO:0031324	41	41	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organelle assembly	GO:0070925	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular amino acid metabolic process	GO:0006520	118	118	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptide metabolic process	GO:0006518	57	57	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+proteolysis	GO:0006508	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular modified amino acid metabolic process	GO:0006575	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular biogenic amine metabolic process	GO:0006576	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxoacid metabolic process	GO:0043436	181	181	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleic acid metabolic process	GO:0090304	70	70	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic acid transmembrane transport	GO:1905039	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organophosphate biosynthetic process	GO:0090407	45	45	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+anion transport	GO:0006820	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ion transport	GO:0006811	47	47	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cation transport	GO:0006812	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+iron ion transport	GO:0006826	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amino acid transport	GO:0006865	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oligopeptide transport	GO:0006857	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+drug transmembrane transport	GO:0006855	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular metal ion homeostasis	GO:0006875	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular ion homeostasis	GO:0006873	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipid transport	GO:0006869	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transport	GO:0006810	81	81	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+xenobiotic metabolic process	GO:0006805	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to osmotic stress	GO:0006970	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to DNA damage stimulus	GO:0006974	54	54	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecular complex subunit organization	GO:0043933	80	80	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to stress	GO:0006950	140	140	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to oxidative stress	GO:0006979	38	38	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphorylation	GO:0016310	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organelle organization	GO:0006996	48	48	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+movement of cell or subcellular component	GO:0006928	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of protein metabolic process	GO:0051246	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of protein metabolic process	GO:0051248	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein homooligomerization	GO:0051260	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of RNA metabolic process	GO:0051253	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of RNA metabolic process	GO:0051254	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of RNA metabolic process	GO:0051252	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein oligomerization	GO:0051259	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular component movement	GO:0051270	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein tetramerization	GO:0051262	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+chromosome organization	GO:0051276	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+establishment of localization	GO:0051234	87	87	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of nitrogen compound metabolic process	GO:0051172	39	39	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of nitrogen compound metabolic process	GO:0051173	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of nitrogen compound metabolic process	GO:0051171	62	62	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cofactor biosynthetic process	GO:0051188	43	43	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cofactor metabolic process	GO:0051186	77	77	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell division	GO:0051301	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of hydrolase activity	GO:0051336	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein homotetramerization	GO:0051289	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-species submerged biofilm formation	GO:0090609	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+submerged biofilm formation	GO:0090605	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular component organization	GO:0051128	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular localization	GO:0051641	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transition metal ion transport	GO:0000041	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+localization of cell	GO:0051674	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein maturation	GO:0051604	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+chaperone-mediated protein folding	GO:0061077	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+membrane organization	GO:0061024	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosomal small subunit assembly	GO:0000028	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosomal large subunit assembly	GO:0000027	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphorelay signal transduction system	GO:0000160	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+multi-organism process	GO:0051704	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to stimulus	GO:0051716	105	105	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+rRNA modification	GO:0000154	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular process	GO:0050794	96	96	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of catalytic activity	GO:0050790	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of cellular macromolecule biosynthetic process	GO:2000113	38	38	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular macromolecule biosynthetic process	GO:2000112	59	59	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of DNA-templated transcription, initiation	GO:2000142	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cell motility	GO:2000145	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of biological process	GO:0050789	102	102	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate derivative transport	GO:1901264	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+inorganic ion homeostasis	GO:0098771	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside phosphate biosynthetic process	GO:1901293	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic acid transmembrane transport	GO:1903825	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of macromolecule metabolic process	GO:0060255	70	70	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate derivative catabolic process	GO:1901136	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate derivative metabolic process	GO:1901135	87	87	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate derivative biosynthetic process	GO:1901137	43	43	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ion homeostasis	GO:0050801	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA methylation	GO:0001510	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cilium or flagellum-dependent cell motility	GO:0001539	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+signaling	GO:0023052	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of nucleic acid-templated transcription	GO:1903506	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of nucleic acid-templated transcription	GO:1903507	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of nucleic acid-templated transcription	GO:1903508	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+liposaccharide metabolic process	GO:1903509	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+inorganic ion transmembrane transport	GO:0098660	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+anion transmembrane transport	GO:0098656	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+import into cell	GO:0098657	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cation transmembrane transport	GO:0098655	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+inorganic cation transmembrane transport	GO:0098662	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+signal transduction by protein phosphorylation	GO:0023014	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+quinone metabolic process	GO:1901661	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+quinone biosynthetic process	GO:1901663	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+iron coordination entity transport	GO:1901678	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to nitrogen compound	GO:1901698	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic hydroxy compound biosynthetic process	GO:1901617	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic hydroxy compound catabolic process	GO:1901616	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intracellular signal transduction	GO:0035556	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine-containing compound metabolic process	GO:0072521	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyridine-containing compound biosynthetic process	GO:0072525	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyridine-containing compound metabolic process	GO:0072524	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine-containing compound biosynthetic process	GO:0072522	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyrimidine-containing compound catabolic process	GO:0072529	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyrimidine-containing compound biosynthetic process	GO:0072528	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyrimidine-containing compound metabolic process	GO:0072527	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+glycosyl compound metabolic process	GO:1901657	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+glycosyl compound biosynthetic process	GO:1901659	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic hydroxy compound metabolic process	GO:1901615	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+alpha-amino acid catabolic process	GO:1901606	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+alpha-amino acid metabolic process	GO:1901605	91	91	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+alpha-amino acid biosynthetic process	GO:1901607	70	70	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organonitrogen compound catabolic process	GO:1901565	29	29	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organonitrogen compound biosynthetic process	GO:1901566	188	188	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic substance catabolic process	GO:1901575	93	93	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tRNA processing	GO:0008033	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tetrapyrrole biosynthetic process	GO:0033014	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tetrapyrrole metabolic process	GO:0033013	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecule localization	GO:0033036	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sulfur compound transport	GO:0072348	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monocarboxylic acid biosynthetic process	GO:0072330	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monocarboxylic acid catabolic process	GO:0072329	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic cyclic compound catabolic process	GO:1901361	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic cyclic compound biosynthetic process	GO:1901362	104	104	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular respiration	GO:0045333	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+establishment of protein localization	GO:0045184	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein localization	GO:0008104	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein complex biogenesis	GO:0070271	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to oxygen-containing compound	GO:1901701	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to oxygen-containing compound	GO:1901700	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyrimidine nucleobase metabolic process	GO:0006206	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+DNA metabolic process	GO:0006259	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular macromolecule localization	GO:0070727	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine nucleotide metabolic process	GO:0006163	35	35	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine nucleotide biosynthetic process	GO:0006164	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+heterocycle biosynthetic process	GO:0018130	97	97	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidation-reduction process	GO:0055114	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptidyl-amino acid modification	GO:0018193	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+rRNA methylation	GO:0031167	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of nucleobase-containing compound metabolic process	GO:0045935	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of nucleobase-containing compound metabolic process	GO:0045934	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+DNA recombination	GO:0006310	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+rRNA processing	GO:0006364	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transcription, DNA-templated	GO:0006351	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of transcription, DNA-templated	GO:0006355	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+DNA repair	GO:0006281	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of transcription, DNA-templated	GO:0045892	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of transcription, DNA-templated	GO:0045893	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+DNA replication	GO:0006260	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+DNA-dependent DNA replication	GO:0006261	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of protein complex assembly	GO:0043254	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to chemical stimulus	GO:0070887	31	31	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipid biosynthetic process	GO:0008610	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+glucose metabolic process	GO:0006006	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate transport	GO:0008643	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hexose transport	GO:0008645	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phospholipid biosynthetic process	GO:0008654	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipopolysaccharide metabolic process	GO:0008653	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular amino acid biosynthetic process	GO:0008652	79	79	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to stress	GO:0033554	81	81	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular component macromolecule biosynthetic process	GO:0070589	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of primary metabolic process	GO:0080090	73	73	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+glycosaminoglycan biosynthetic process	GO:0006024	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aminoglycan metabolic process	GO:0006022	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aminoglycan biosynthetic process	GO:0006023	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic acid metabolic process	GO:0006082	181	181	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular aldehyde metabolic process	GO:0006081	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+generation of precursor metabolites and energy	GO:0006091	34	34	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular polysaccharide biosynthetic process	GO:0033692	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyruvate metabolic process	GO:0006090	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+alcohol metabolic process	GO:0006066	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+metal ion homeostasis	GO:0055065	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transition metal ion homeostasis	GO:0055076	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular metabolic compound salvage	GO:0043094	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular chemical homeostasis	GO:0055082	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transmembrane transport	GO:0055085	31	31	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleobase-containing small molecule metabolic process	GO:0055086	78	78	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cation homeostasis	GO:0055080	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tRNA aminoacylation	GO:0043039	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amino acid activation	GO:0043038	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptide biosynthetic process	GO:0043043	48	48	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosome biogenesis	GO:0042254	45	45	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosome assembly	GO:0042255	38	38	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosomal large subunit biogenesis	GO:0042273	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosomal small subunit biogenesis	GO:0042274	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipid modification	GO:0030258	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine nucleoside metabolic process	GO:0042278	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to chemical	GO:0042221	77	77	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+water-soluble vitamin biosynthetic process	GO:0042364	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-organism biosynthetic process	GO:0044711	179	179	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-organism catabolic process	GO:0044712	66	66	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-organism carbohydrate catabolic process	GO:0044724	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-organism carbohydrate metabolic process	GO:0044723	55	55	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic acid metabolic process	GO:0019752	181	181	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular homeostasis	GO:0019725	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of translation	GO:0017148	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single organism signaling	GO:0044700	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell projection assembly	GO:0030031	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell projection organization	GO:0030030	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+metal ion transport	GO:0030001	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular cation homeostasis	GO:0030003	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribose phosphate metabolic process	GO:0019693	44	44	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-organism membrane organization	GO:0044802	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of localization	GO:0032879	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+glycosaminoglycan metabolic process	GO:0030203	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monocarboxylic acid metabolic process	GO:0032787	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA biosynthetic process	GO:0032774	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+multi-organism cellular process	GO:0044764	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-organism transport	GO:0044765	68	68	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular ketone metabolic process	GO:0042180	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ketone biosynthetic process	GO:0042181	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+biofilm formation	GO:0042710	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amide transport	GO:0042886	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+benzene-containing compound metabolic process	GO:0042537	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell wall biogenesis	GO:0042546	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pteridine-containing compound metabolic process	GO:0042558	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoside biosynthetic process	GO:0042455	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to drug	GO:0042493	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein transport	GO:0015031	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of locomotion	GO:0040012	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+locomotion	GO:0040011	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+homeostatic process	GO:0042592	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to starvation	GO:0042594	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monovalent inorganic cation transport	GO:0015672	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+inorganic anion transport	GO:0015698	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ammonium transport	GO:0015696	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monosaccharide metabolic process	GO:0005996	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+polysaccharide metabolic process	GO:0005976	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate metabolic process	GO:0005975	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleobase-containing small molecule interconversion	GO:0015949	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+energy derivation by oxidation of organic compounds	GO:0015980	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monocarboxylic acid transport	GO:0015718	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic anion transport	GO:0015711	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monosaccharide transport	GO:0015749	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+drug transport	GO:0015893	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptide transport	GO:0015833	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+L-amino acid transport	GO:0015807	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+neutral amino acid transport	GO:0015804	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic hydroxy compound transport	GO:0015850	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic acid transport	GO:0015849	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-organism localization	GO:1902578	76	76	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+archaeal or bacterial-type flagellum-dependent cell motility	GO:0097588	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of biological process	GO:0048519	49	49	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of biological process	GO:0048518	26	26	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of cellular process	GO:0048522	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of cellular process	GO:0048523	44	44	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ammonium ion metabolic process	GO:0097164	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein modification process	GO:0036211	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+polysaccharide biosynthetic process	GO:0000271	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptidoglycan metabolic process	GO:0000270	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to reactive oxygen species	GO:0000302	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to inorganic substance	GO:0071241	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to abiotic stimulus	GO:0071214	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cytokinesis	GO:0000910	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleoside triphosphate metabolic process	GO:0009205	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to ionizing radiation	GO:0010212	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipopolysaccharide core region biosynthetic process	GO:0009244	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptidoglycan-based cell wall biogenesis	GO:0009273	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+chemical homeostasis	GO:0048878	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ion transmembrane transport	GO:0034220	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate transmembrane transport	GO:0034219	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptidoglycan biosynthetic process	GO:0009252	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleotide metabolic process	GO:0009259	35	35	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleotide biosynthetic process	GO:0009260	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to temperature stimulus	GO:0009266	35	35	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to pH	GO:0009268	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to starvation	GO:0009267	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular amide metabolic process	GO:0034248	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of cellular amide metabolic process	GO:0034249	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell motility	GO:0048870	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic acid biosynthetic process	GO:0046394	101	101	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic acid catabolic process	GO:0046395	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribose phosphate biosynthetic process	GO:0046390	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphoenolpyruvate-dependent sugar phosphotransferase system	GO:0009401	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to radiation	GO:0009314	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oligosaccharide biosynthetic process	GO:0009312	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oligosaccharide metabolic process	GO:0009311	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amine metabolic process	GO:0009308	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monosaccharide catabolic process	GO:0046365	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleic acid-templated transcription	GO:0097659	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATP metabolic process	GO:0046034	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to organic substance	GO:0010033	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aromatic amino acid family metabolic process	GO:0009072	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+glutamine family amino acid biosynthetic process	GO:0009084	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+branched-chain amino acid metabolic process	GO:0009081	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecule catabolic process	GO:0009057	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+catabolic process	GO:0009056	96	96	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecule biosynthetic process	GO:0009059	91	91	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to metal ion	GO:0010038	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to inorganic substance	GO:0010035	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+glutamine family amino acid metabolic process	GO:0009064	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular amino acid catabolic process	GO:0009063	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+fatty acid catabolic process	GO:0009062	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+anaerobic respiration	GO:0009061	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aspartate family amino acid biosynthetic process	GO:0009067	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aspartate family amino acid metabolic process	GO:0009066	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+serine family amino acid metabolic process	GO:0009069	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aerobic respiration	GO:0009060	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of RNA biosynthetic process	GO:1902679	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of RNA biosynthetic process	GO:1902680	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of RNA biosynthetic process	GO:2001141	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+alcohol catabolic process	GO:0046164	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleobase metabolic process	GO:0009112	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+vitamin biosynthetic process	GO:0009110	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside metabolic process	GO:0009116	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoside metabolic process	GO:0009119	35	35	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleotide metabolic process	GO:0009117	62	62	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside monophosphate metabolic process	GO:0009123	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine nucleoside monophosphate metabolic process	GO:0009126	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipopolysaccharide biosynthetic process	GO:0009103	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+coenzyme biosynthetic process	GO:0009108	26	26	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleotide biosynthetic process	GO:0009152	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleotide metabolic process	GO:0009150	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside biosynthetic process	GO:0009163	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoside monophosphate metabolic process	GO:0009161	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleoside monophosphate metabolic process	GO:0009167	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleotide biosynthetic process	GO:0009165	29	29	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside triphosphate metabolic process	GO:0009141	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine nucleoside triphosphate metabolic process	GO:0009144	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleoside metabolic process	GO:0046128	29	29	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoside triphosphate metabolic process	GO:0009199	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular component biogenesis	GO:0044085	110	110	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular component biogenesis	GO:0044087	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of molecular function	GO:0044092	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular macromolecular complex assembly	GO:0034622	43	43	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular protein localization	GO:0034613	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoprotein complex assembly	GO:0022618	38	38	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoprotein complex biogenesis	GO:0022613	45	45	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+biological adhesion	GO:0022610	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ncRNA metabolic process	GO:0034660	34	34	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleobase-containing compound catabolic process	GO:0034655	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleobase-containing compound biosynthetic process	GO:0034654	56	56	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular macromolecule biosynthetic process	GO:0034645	90	90	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell cycle	GO:0007049	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular carbohydrate biosynthetic process	GO:0034637	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell wall macromolecule metabolic process	GO:0044036	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell wall macromolecule biosynthetic process	GO:0044038	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+single-species biofilm formation	GO:0044010	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to antibiotic	GO:0046677	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of biosynthetic process	GO:0009889	61	61	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nitrogen compound transport	GO:0071705	29	29	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular amine metabolic process	GO:0044106	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic substance transport	GO:0071702	60	60	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+heterocycle catabolic process	GO:0046700	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell communication	GO:0007154	32	32	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+signal transduction	GO:0007165	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein autophosphorylation	GO:0046777	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to external stimulus	GO:0071496	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to xenobiotic stimulus	GO:0071466	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell cycle process	GO:0022402	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+SOS response	GO:0009432	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to xenobiotic stimulus	GO:0009410	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to light stimulus	GO:0009416	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to heat	GO:0009408	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipopolysaccharide core region metabolic process	GO:0046401	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of gene expression	GO:0010468	59	59	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+gene expression	GO:0010467	86	86	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA modification	GO:0009451	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to acidic pH	GO:0010447	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ncRNA processing	GO:0034470	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipid oxidation	GO:0034440	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nicotinamide nucleotide metabolic process	GO:0046496	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organophosphate catabolic process	GO:0046434	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular component assembly	GO:0022607	97	97	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to abiotic stimulus	GO:0009628	67	67	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of gene expression	GO:0010629	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of gene expression	GO:0010628	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to external stimulus	GO:0009605	34	34	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+posttranscriptional regulation of gene expression	GO:0010608	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of macromolecule metabolic process	GO:0010604	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of macromolecule metabolic process	GO:0010605	42	42	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of macromolecule biosynthetic process	GO:0010556	59	59	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of macromolecule biosynthetic process	GO:0010558	38	38	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of macromolecule biosynthetic process	GO:0010557	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cell wall organization or biogenesis	GO:0071554	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular response to oxidative stress	GO:0034599	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein metabolic process	GO:0019538	94	94	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organophosphate metabolic process	GO:0019637	82	82	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular transition metal ion homeostasis	GO:0046916	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+respiratory electron transport chain	GO:0022904	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+electron transport chain	GO:0022900	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hexose metabolic process	GO:0019318	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+response to extracellular stimulus	GO:0009991	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hexose catabolic process	GO:0019320	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pentose metabolic process	GO:0019321	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of nucleobase-containing compound metabolic process	GO:0019219	44	44	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of metabolic process	GO:0009893	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of metabolic process	GO:0009892	44	44	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+positive regulation of biosynthetic process	GO:0009891	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of biosynthetic process	GO:0009890	39	39	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of metabolic process	GO:0019222	77	77	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lipid localization	GO:0010876	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoprotein complex subunit organization	GO:0071826	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein complex subunit organization	GO:0071822	35	35	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+small molecule biosynthetic process	GO:0044283	125	125	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+small molecule catabolic process	GO:0044282	43	43	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulation of cellular protein metabolic process	GO:0032268	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+negative regulation of cellular protein metabolic process	GO:0032269	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+methylation	GO:0032259	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular lipid catabolic process	GO:0044242	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular catabolic process	GO:0044248	72	72	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular component organization or biogenesis	GO:0071840	125	125	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular lipid metabolic process	GO:0044255	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular carbohydrate metabolic process	GO:0044262	31	31	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular macromolecule catabolic process	GO:0044265	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular polysaccharide metabolic process	GO:0044264	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular protein metabolic process	GO:0044267	77	77	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular nitrogen compound catabolic process	GO:0044270	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sulfur compound biosynthetic process	GO:0044272	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular nitrogen compound biosynthetic process	GO:0044271	139	139	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cellular carbohydrate catabolic process	GO:0044275	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aromatic compound catabolic process	GO:0019439	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aromatic compound biosynthetic process	GO:0019438	94	94	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyridine nucleotide metabolic process	GO:0019362	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic acid transport	GO:0046942	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+fatty acid oxidation	GO:0019395	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+bacterial-type flagellum-dependent cell motility	GO:0071973	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null

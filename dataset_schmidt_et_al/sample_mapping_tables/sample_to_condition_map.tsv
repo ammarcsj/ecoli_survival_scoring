@@ -1,0 +1,81 @@
+MG1665 LB rep1	MG1665LB
+MG1665 LB rep2	MG1665LB
+MG1665 LB rep3	MG1665LB
+NCM3722 LB rep1	NCM3722LB
+NCM3722 LB rep2	NCM3722LB
+NCM3722 LB rep3	NCM3722LB
+MG1665 glucose rep1	MG1665glucose
+MG1665 glucose rep2	MG1665glucose
+MG1665 glucose rep3	MG1665glucose
+NCM3722 glucose rep1	NCM3722glucose
+NCM3722 glucose rep2	NCM3722glucose
+NCM3722 glucose rep3	NCM3722glucose
+LB rep1	LB
+LB rep2	LB
+LB rep3	LB
+glucose rep1	glucose
+glucose rep2	glucose
+glucose rep3	glucose
+glycerol + AA rep1	glycerol+AA
+glycerol + AA rep2	glycerol+AA
+glycerol + AA rep3	glycerol+AA
+acetate rep1	acetate
+acetate rep2	acetate
+acetate rep3	acetate
+fumarate rep1	fumarate
+fumarate rep2	fumarate
+fumarate rep3	fumarate
+glucosamine rep1	glucosamine
+glucosamine rep2	glucosamine
+glucosamine rep3	glucosamine
+glycerol rep1	glycerol
+glycerol rep2	glycerol
+glycerol rep3	glycerol
+pyruvate rep1	pyruvate
+pyruvate rep2	pyruvate
+pyruvate rep3	pyruvate
+chemostat µ=0.5 rep1	chemostat=0.5
+chemostat µ=0.5 rep2	chemostat=0.5
+chemostat µ=0.5 rep3	chemostat=0.5
+chemostat µ=0.35 rep1	chemostat=0.35
+chemostat µ=0.35 rep2	chemostat=0.35
+chemostat µ=0.35 rep3	chemostat=0.35
+chemostat µ=0.20 rep1	chemostat=0.20
+chemostat µ=0.20 rep2	chemostat=0.20
+chemostat µ=0.20 rep3	chemostat=0.20
+chemostat µ=0.12 rep1	chemostat=0.12
+chemostat µ=0.12 rep2	chemostat=0.12
+chemostat µ=0.12 rep3	chemostat=0.12
+stationary 1 day rep1	stationary1day
+stationary 1 day rep2	stationary1day
+stationary 1 day rep3	stationary1day
+stationary 3 days rep1	stationary3days
+stationary 3 days rep2	stationary3days
+stationary 3 days rep3	stationary3days
+50 mM NaCl rep1	50mMNaCl
+50 mM NaCl rep2	50mMNaCl
+50 mM NaCl rep3	50mMNaCl
+42°C rep1	42Cels
+42°C rep2	42Cels
+42°C rep3	42Cels
+pH 6 rep1	pH6
+pH 6 rep2	pH6
+pH 6 rep3	pH6
+anaerobic rep1	anaerobic
+anaerobic rep2	anaerobic
+anaerobic rep3	anaerobic
+xylose rep1	xylose
+xylose rep2	xylose
+xylose rep3	xylose
+mannose rep1	mannose
+mannose rep2	mannose
+mannose rep3	mannose
+galactose rep1	galactose
+galactose rep2	galactose
+galactose rep3	galactose
+succinate rep1	succinate
+succinate rep2	succinate
+succinate rep3	succinate
+fructose rep1	fructose
+fructose rep2	fructose
+fructose rep3	fructose

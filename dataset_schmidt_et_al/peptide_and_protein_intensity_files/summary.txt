@@ -1,0 +1,167 @@
+Raw file	Experiment	Enzyme	Enzyme mode	Enzyme first search	Enzyme mode first search	Use enzyme first search	Variable modifications	Multi modifications	Variable modifications first search	Use variable modifications first search	Requantify	Multiplicity	Max. missed cleavages	Labels0	LC-MS run type	Time-dependent recalibration	MS	MS/MS	MS3	MS/MS Submitted	MS/MS Submitted (SIL)	MS/MS Submitted (ISO)	MS/MS Submitted (PEAK)	MS/MS Identified	MS/MS Identified (SIL)	MS/MS Identified (ISO)	MS/MS Identified (PEAK)	MS/MS Identified [%]	MS/MS Identified (SIL) [%]	MS/MS Identified (ISO) [%]	MS/MS Identified (PEAK) [%]	Peptide Sequences Identified	Peaks	Peaks Sequenced	Peaks Sequenced [%]	Peaks Repeatedly Sequenced	Peaks Repeatedly Sequenced [%]	Isotope Patterns	Isotope Patterns Sequenced	Isotope Patterns Sequenced (z>1)	Isotope Patterns Sequenced [%]	Isotope Patterns Sequenced (z>1) [%]	Isotope Patterns Repeatedly Sequenced	Isotope Patterns Repeatedly Sequenced [%]	Recalibrated	Av. Absolute Mass Deviation [ppm]	Mass Standard Deviation [ppm]	Av. Absolute Mass Deviation [mDa]	Mass Standard Deviation [mDa]	Label free norm param
+A14-07016	MG1665 LB rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5575	49193	0	54167	43997	0	10170	15825	15461	0	364	29.22	35.14	NaN	3.58	10332	921771	42702	4.63	3950	9.25	153970	37146	36155	24.13	29.49	5531	14.89	+	0.34814	0.52071	0.24145	0.37231	
+A14-07017	MG1665 LB rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5511	49730	0	54793	44467	0	10326	16336	15984	0	352	29.81	35.95	NaN	3.41	10701	909699	42996	4.73	4085	9.5	151558	37304	36334	24.61	30.11	5850	15.68	+	0.33779	0.50032	0.23563	0.36107	
+A14-07018	MG1665 LB rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5386	49005	0	54329	43517	0	10812	15341	14980	0	361	28.24	34.42	NaN	3.34	10207	890288	42273	4.75	3906	9.24	149720	36806	35793	24.58	30.01	5510	14.97	+	0.34448	0.51075	0.23908	0.36485	
+A14-07020	NCM3722 LB rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5473	49134	0	54245	43853	0	10392	15836	15437	0	399	29.19	35.2	NaN	3.84	10374	890452	42605	4.78	3922	9.21	149598	37023	36070	24.75	30.17	5605	15.14	+	0.34726	0.51744	0.23939	0.36743	
+A14-07021	NCM3722 LB rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5537	50754	0	56143	45141	0	11002	16095	15748	0	347	28.67	34.89	NaN	3.15	10475	893359	43547	4.87	4263	9.79	149075	37744	36692	25.32	30.71	5988	15.86	+	0.33841	0.51262	0.23411	0.35965	
+A14-07022	NCM3722 LB rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5499	49990	0	55339	44397	0	10942	15983	15599	0	384	28.88	35.14	NaN	3.51	10326	888301	42945	4.83	4095	9.54	148482	37168	36158	25.03	30.36	5858	15.76	+	0.3427	0.51595	0.23668	0.3655	
+A14-07024	MG1665 glucose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5514	49772	0	54627	44727	0	9900	16556	16215	0	341	30.31	36.25	NaN	3.44	11040	928190	43389	4.67	3870	8.92	155123	37901	36996	24.43	29.69	5657	14.93	+	0.33552	0.51251	0.2352	0.37266	
+A14-07025	MG1665 glucose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5350	47958	0	52866	42918	0	9948	15835	15495	0	340	29.95	36.1	NaN	3.42	10873	895619	41890	4.68	3571	8.52	151308	36773	35838	24.3	29.26	5189	14.11	+	0.33567	0.51024	0.23047	0.3593	
+A14-07026	MG1665 glucose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5415	49281	0	54173	44217	0	9956	15875	15517	0	358	29.3	35.09	NaN	3.6	10547	900727	42805	4.75	3891	9.09	151253	37388	36471	24.72	30.09	5663	15.15	+	0.33058	0.49626	0.22952	0.35874	
+A14-07028	NCM3722 glucose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5484	49587	0	54419	44585	0	9834	16580	16235	0	345	30.47	36.41	NaN	3.51	10865	900833	42906	4.76	3971	9.26	151459	37552	36635	24.79	30.35	5787	15.41	+	0.33315	0.50392	0.23315	0.36498	
+A14-07029	NCM3722 glucose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5546	50582	0	55618	45338	0	10280	16903	16575	0	328	30.39	36.56	NaN	3.19	11046	894039	43475	4.86	4195	9.65	149683	37791	36880	25.25	31.06	6130	16.22	+	0.33432	0.51095	0.23603	0.37858	
+A14-07030	NCM3722 glucose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5465	49589	0	54624	44362	0	10262	16660	16331	0	329	30.5	36.81	NaN	3.21	10964	887227	42768	4.82	3952	9.24	149552	37325	36453	24.96	30.55	5785	15.5	+	0.32988	0.50559	0.23001	0.36796	
+A14-07032	LB rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5439	48851	0	53777	43705	0	10072	16591	16189	0	402	30.85	37.04	NaN	3.99	10966	903581	41960	4.64	4218	10.05	150168	36441	35552	24.27	29.48	5846	16.04	+	0.33645	0.50206	0.23594	0.36314	
+A14-07033	LB rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5353	48835	0	54074	43384	0	10690	16475	16067	0	408	30.47	37.03	NaN	3.82	10605	865054	41585	4.81	4272	10.27	143984	36064	35148	25.05	30.56	5883	16.31	+	0.34157	0.50885	0.23882	0.36804	
+A14-07034	LB rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5285	47980	0	53246	42520	0	10726	16194	15793	0	401	30.41	37.14	NaN	3.74	10552	858920	40946	4.77	4038	9.86	143547	35515	34539	24.74	30	5632	15.86	+	0.34071	0.51164	0.23691	0.36491	
+A14-07036	glucose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5306	47723	0	52553	42777	0	9776	16338	15974	0	364	31.09	37.34	NaN	3.72	10812	876555	41108	4.69	3984	9.69	146208	35879	34999	24.54	29.83	5672	15.81	+	0.33043	0.49907	0.23084	0.3656	
+A14-07037	glucose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5392	49344	0	54312	44216	0	10096	17044	16676	0	368	31.38	37.71	NaN	3.65	11157	878945	42341	4.82	4155	9.81	146032	36835	35925	25.22	30.69	5990	16.26	+	0.33065	0.50274	0.23258	0.36847	
+A14-07038	glucose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5353	48935	0	53824	43904	0	9920	16895	16512	0	383	31.39	37.61	NaN	3.86	10964	880170	41941	4.77	4165	9.93	146690	36459	35569	24.85	30.25	5975	16.39	+	0.32929	0.50354	0.23201	0.37025	
+A14-07040	glycerol + AA rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5454	49612	0	55020	43976	0	11044	17181	16735	0	446	31.23	38.05	NaN	4.04	11054	861529	42142	4.89	4497	10.67	141635	36090	35176	25.48	31.22	6266	17.36	+	0.32648	0.48688	0.23041	0.35645	
+A14-07041	glycerol + AA rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5283	48194	0	53337	42901	0	10436	16375	16074	0	301	30.7	37.47	NaN	2.88	10675	853920	41112	4.81	4124	10.03	140818	35480	34552	25.2	30.59	5939	16.74	+	0.3417	0.51116	0.24011	0.37384	
+A14-07042	glycerol + AA rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5495	50234	0	55461	44765	0	10696	17738	17380	0	358	31.98	38.82	NaN	3.35	11426	875797	42597	4.86	4588	10.77	143520	36593	35665	25.5	31.22	6438	17.59	+	0.33031	0.48982	0.23583	0.36657	
+A14-07044	acetate rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5361	48736	0	53590	43710	0	9880	17003	16686	0	317	31.73	38.17	NaN	3.21	11221	882869	41756	4.73	4291	10.28	143757	36012	35122	25.05	30.29	6188	17.18	+	0.33182	0.49465	0.23357	0.3616	
+A14-07045	acetate rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5375	49127	0	54115	43949	0	10166	16730	16368	0	362	30.92	37.24	NaN	3.56	11193	882855	41926	4.75	4349	10.37	143914	36284	35406	25.21	30.48	6199	17.08	+	0.32844	0.49563	0.22879	0.3555	
+A14-07046	acetate rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5321	48678	0	53586	43620	0	9966	16872	16536	0	336	31.49	37.91	NaN	3.37	11184	878868	41634	4.74	4242	10.19	145101	36215	35328	24.96	29.9	5954	16.44	+	0.33529	0.49999	0.23694	0.36789	
+A14-07048	fumarate rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5076	47580	0	52718	42302	0	10416	16896	16555	0	341	32.05	39.14	NaN	3.27	11304	810918	40610	5.01	4011	9.88	134822	35252	34508	26.15	30.46	5753	16.32	+	0.32988	0.48834	0.23012	0.35427	
+A14-07049	fumarate rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5088	47437	0	52630	42110	0	10520	16862	16551	0	311	32.04	39.3	NaN	2.96	11365	787442	40498	5.14	3929	9.7	131355	35048	34361	26.68	31.23	5739	16.37	+	0.33166	0.50461	0.22867	0.35657	
+A14-07050	fumarate rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5154	48281	0	53324	43100	0	10224	17342	16973	0	369	32.52	39.38	NaN	3.61	11503	808297	41299	5.11	4047	9.8	134089	35781	35087	26.68	31.31	5932	16.58	+	0.32732	0.49902	0.23001	0.36324	
+A14-07052	glucosamine rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5068	47363	0	52472	42174	0	10298	17020	16685	0	335	32.44	39.56	NaN	3.25	11414	799882	40469	5.06	4011	9.91	132534	35015	34260	26.42	30.73	5826	16.64	+	0.33281	0.50248	0.23171	0.36279	
+A14-07053	glucosamine rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5198	48985	0	54210	43564	0	10646	17292	16958	0	334	31.9	38.93	NaN	3.14	11323	788682	41620	5.28	4332	10.41	130508	35881	35130	27.49	32.26	6226	17.35	+	0.32378	0.48857	0.22576	0.35215	
+A14-07054	glucosamine rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4838	45150	0	50483	39713	0	10770	15897	15538	0	359	31.49	39.13	NaN	3.33	10821	770305	38545	5	3739	9.7	128738	33290	32562	25.86	29.9	5247	15.76	+	0.33397	0.49966	0.22875	0.35397	
+A14-07056	glycerol rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4992	46798	0	51989	41475	0	10514	16823	16468	0	355	32.36	39.71	NaN	3.38	11017	777361	39878	5.13	4003	10.04	129104	34359	33629	26.61	31	5784	16.83	+	0.32924	0.49517	0.22986	0.36074	
+A14-07057	glycerol rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4974	46801	0	51966	41518	0	10448	16392	16035	0	357	31.54	38.62	NaN	3.42	11024	776812	39810	5.12	3974	9.98	129142	34546	33741	26.75	31.13	5679	16.44	+	0.32507	0.49235	0.2259	0.35291	
+A14-07058	glycerol rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5019	47165	0	52267	41893	0	10374	17116	16777	0	339	32.75	40.05	NaN	3.27	11271	779635	40082	5.14	4066	10.14	129567	34659	33944	26.75	31.17	5841	16.85	+	0.32558	0.49311	0.22486	0.35145	
+A14-07060	pyruvate rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5033	47151	0	52281	41873	0	10408	16811	16401	0	410	32.16	39.17	NaN	3.94	10945	777363	39853	5.13	4250	10.66	127758	34395	33663	26.92	31.34	5999	17.44	+	0.3303	0.50882	0.2305	0.36782	
+A14-07061	pyruvate rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5117	48325	0	53460	43010	0	10450	17824	17503	0	321	33.34	40.7	NaN	3.07	11592	785535	40797	5.19	4408	10.8	128747	35125	34464	27.28	31.94	6385	18.18	+	0.32991	0.51089	0.22978	0.36891	
+A14-07062	pyruvate rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4997	47000	0	52338	41554	0	10784	17115	16742	0	373	32.7	40.29	NaN	3.46	11200	766304	39649	5.17	4208	10.61	126459	34088	33423	26.96	31.54	6053	17.76	+	0.33274	0.50276	0.23243	0.36951	
+A14-07064	chemostat µ=0.5 rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5104	47720	0	52788	42518	0	10270	17840	17457	0	383	33.8	41.06	NaN	3.73	11829	790258	40502	5.13	4258	10.51	128895	34721	34020	26.94	31.52	6264	18.04	+	0.32936	0.50121	0.23112	0.36375	
+A14-07065	chemostat µ=0.5 rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5109	48499	0	53601	43197	0	10404	18296	17932	0	364	34.13	41.51	NaN	3.5	11928	791798	41038	5.18	4392	10.7	129209	35238	34479	27.27	31.89	6399	18.16	+	0.32214	0.49735	0.22844	0.3677	
+A14-07066	chemostat µ=0.5 rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4977	47207	0	52407	41895	0	10512	17289	16948	0	341	32.99	40.45	NaN	3.24	11497	778101	40070	5.15	4163	10.39	127534	34428	33738	27	31.47	6098	17.71	+	0.32289	0.4874	0.22451	0.34908	
+A14-07068	chemostat µ=0.35 rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5076	48046	0	53279	42653	0	10626	17779	17440	0	339	33.37	40.89	NaN	3.19	11849	778984	40559	5.21	4383	10.81	125973	34661	33915	27.51	32.15	6447	18.6	+	0.32376	0.49011	0.22736	0.35784	
+A14-07069	chemostat µ=0.35 rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5122	48302	0	53456	42922	0	10534	18188	17821	0	367	34.02	41.52	NaN	3.48	11997	792792	40753	5.14	4434	10.88	128011	34926	34253	27.28	31.79	6448	18.46	+	0.32554	0.48985	0.22991	0.35817	
+A14-07070	chemostat µ=0.35 rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4950	46710	0	52030	41232	0	10798	17074	16744	0	330	32.82	40.61	NaN	3.06	11406	772847	39551	5.12	4090	10.34	127467	33986	33324	26.66	31.07	5959	17.53	+	0.33101	0.5019	0.23275	0.36686	
+A14-07072	chemostat µ=0.20 rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4942	46123	0	51225	40899	0	10326	16527	16163	0	364	32.26	39.52	NaN	3.53	11178	765780	39173	5.12	4050	10.34	124975	33604	32907	26.89	31.22	5939	17.67	+	0.33352	0.50861	0.23302	0.36849	
+A14-07073	chemostat µ=0.20 rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5035	47219	0	52267	42023	0	10244	17609	17307	0	302	33.69	41.18	NaN	2.95	11814	782356	39888	5.1	4280	10.73	126725	34200	33561	26.99	31.29	6270	18.33	+	0.32538	0.48269	0.22784	0.34707	
+A14-07074	chemostat µ=0.20 rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5145	48624	0	53897	43143	0	10754	18217	17829	0	388	33.8	41.33	NaN	3.61	11982	778626	40840	5.25	4634	11.35	124930	34881	34215	27.92	32.63	6645	19.05	+	0.32579	0.50081	0.22938	0.36305	
+A14-07076	chemostat µ=0.12 rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4992	47326	0	52588	41838	0	10750	17283	16966	0	317	32.86	40.55	NaN	2.95	11525	752887	39782	5.28	4380	11.01	120797	33904	33160	28.07	32.78	6414	18.92	+	0.32549	0.49766	0.22877	0.36468	
+A14-07077	chemostat µ=0.12 rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4953	47091	0	52328	41688	0	10640	17123	16836	0	287	32.72	40.39	NaN	2.7	11493	761450	39566	5.2	4337	10.96	123404	33877	33175	27.45	31.85	6310	18.63	+	0.321	0.4869	0.22532	0.35345	
+A14-07078	chemostat µ=0.12 rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5009	47748	0	53125	42173	0	10952	17589	17250	0	339	33.11	40.9	NaN	3.1	11676	753426	40077	5.32	4366	10.89	121016	34117	33397	28.19	33	6491	19.03	+	0.31615	0.4868	0.22321	0.35769	
+A14-07080	stationary 1 day rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4539	43002	0	49504	36430	0	13074	13782	13461	0	321	27.84	36.95	NaN	2.46	9332	703427	34757	4.94	3932	11.31	112611	29471	28703	26.17	29.44	5316	18.04	+	0.32817	0.49553	0.22276	0.35013	
+A14-07081	stationary 1 day rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4575	42759	0	49129	36347	0	12782	13569	13233	0	336	27.62	36.41	NaN	2.63	9235	687665	34715	5.05	3967	11.43	107709	29268	28519	27.17	30.51	5440	18.59	+	0.32502	0.48921	0.21813	0.34132	
+A14-07082	stationary 1 day rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4588	42438	0	49300	35532	0	13768	12893	12570	0	323	26.15	35.38	NaN	2.35	8993	670704	34116	5.09	3878	11.37	104382	28659	27890	27.46	30.89	5247	18.31	+	0.31887	0.48962	0.21263	0.33182	
+A14-07084	stationary 3 days rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4800	44196	0	49844	38480	0	11364	15154	14804	0	350	30.4	38.47	NaN	3.08	9765	725997	36617	5.04	4234	11.56	115642	30970	30154	26.78	30.82	5916	19.1	+	0.32495	0.49364	0.22244	0.34807	
+A14-07085	stationary 3 days rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4641	44020	0	49981	37955	0	12026	14213	13892	0	321	28.44	36.6	NaN	2.67	9223	708813	36249	5.11	4282	11.81	111502	30427	29565	27.29	30.96	5838	19.19	+	0.32086	0.49043	0.21964	0.34552	
+A14-07086	stationary 3 days rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4765	44267	0	50045	38375	0	11670	15631	15227	0	404	31.23	39.68	NaN	3.46	9970	721601	36621	5.07	4285	11.7	114463	30857	30096	26.96	30.87	5976	19.37	+	0.33714	0.50631	0.235	0.37166	
+A14-07088	glucose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4997	46456	0	52059	40717	0	11342	15925	15607	0	318	30.59	38.33	NaN	2.8	10046	735339	38297	5.21	4644	12.13	114802	32209	31454	28.06	32.57	6643	20.62	+	0.32562	0.49564	0.22496	0.35434	
+A14-07089	glucose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5003	47227	0	52777	41489	0	11288	16712	16303	0	409	31.67	39.29	NaN	3.62	10381	733883	38930	5.3	4918	12.63	115848	32775	32060	28.29	32.98	6888	21.02	+	0.32597	0.49755	0.22832	0.36311	
+A14-07090	glucose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4992	46843	0	52229	41247	0	10982	16519	16172	0	347	31.63	39.21	NaN	3.16	10394	742250	38759	5.22	4746	12.24	117494	32807	32112	27.92	32.52	6700	20.42	+	0.32418	0.49814	0.22773	0.36329	
+A14-07092	50 mM NaCl rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4714	43893	0	49573	38099	0	11474	14729	14367	0	362	29.71	37.71	NaN	3.15	9642	721671	36499	5.06	4165	11.41	115308	30822	29975	26.73	30.62	5798	18.81	+	0.33855	0.50796	0.23203	0.35807	
+A14-07093	50 mM NaCl rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4837	44027	0	49728	38218	0	11510	15393	15033	0	360	30.95	39.33	NaN	3.13	10196	726625	36541	5.03	4172	11.42	116426	31009	30315	26.63	30.6	5789	18.67	+	0.34403	0.51326	0.23559	0.36607	
+A14-07094	50 mM NaCl rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4877	45111	0	50307	39833	0	10474	15362	15006	0	356	30.54	37.67	NaN	3.4	10032	726305	37530	5.17	4470	11.91	114585	31841	31117	27.79	31.99	6307	19.81	+	0.3111	0.47713	0.21243	0.33503	
+A14-07096	42°C rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4786	44245	0	49487	38965	0	10522	14714	14359	0	355	29.73	36.85	NaN	3.37	9775	731197	36798	5.03	4339	11.79	115886	31362	30674	27.06	31.33	5977	19.06	+	0.31912	0.48185	0.21349	0.32832	
+A14-07097	42°C rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4681	42777	0	48702	36818	0	11884	13280	12935	0	345	27.27	35.13	NaN	2.9	9064	697363	34969	5.01	4125	11.8	108890	29483	28797	27.08	31.15	5666	19.22	+	0.31765	0.48419	0.2095	0.32461	
+A14-07098	42°C rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4899	46191	0	51655	40579	0	11076	16030	15662	0	368	31.03	38.6	NaN	3.32	10193	732431	38057	5.2	4686	12.31	115717	32236	31507	27.86	32.61	6541	20.29	+	0.31299	0.48759	0.21497	0.34444	
+A14-07100	pH 6 rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4844	45735	0	50979	40411	0	10568	15550	15211	0	339	30.5	37.64	NaN	3.21	10331	741097	37857	5.11	4589	12.12	116795	32089	31312	27.47	31.7	6432	20.04	+	0.31004	0.48259	0.21098	0.33745	
+A14-07101	pH 6 rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4837	45895	0	51267	40449	0	10818	15967	15602	0	365	31.14	38.57	NaN	3.37	10441	749871	38198	5.09	4441	11.63	118718	32433	31652	27.32	31.53	6203	19.13	+	0.31682	0.48686	0.21675	0.34247	
+A14-07102	pH 6 rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4839	46269	0	51636	40808	0	10828	15695	15368	0	327	30.4	37.66	NaN	3.02	10372	754604	38491	5.1	4574	11.88	119091	32548	31694	27.33	31.43	6444	19.8	+	0.31216	0.47824	0.21391	0.33991	
+A14-07104	anaerobic rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4864	45555	0	50956	40076	0	10880	15438	15122	0	316	30.3	37.73	NaN	2.9	10024	718313	37680	5.25	4522	12	113416	31817	31066	28.05	32.41	6315	19.85	+	0.31878	0.48948	0.21792	0.34558	
+A14-07106	anaerobic rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4733	41845	0	48174	35462	0	12712	11917	11666	0	251	24.74	32.9	NaN	1.97	8736	704669	34183	4.85	3807	11.14	106317	28516	27703	26.82	30.74	5175	18.15	+	0.31836	0.48866	0.20693	0.32677	
+A14-07107	anaerobic rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		4686	42449	0	48685	36169	0	12516	12684	12411	0	273	26.05	34.31	NaN	2.18	9073	713322	34578	4.85	3992	11.54	109073	29006	28168	26.59	30.54	5325	18.36	+	0.32149	0.49434	0.20975	0.3347	
+A14-07109	xylose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5033	48382	0	54215	42429	0	11786	16482	16085	0	397	30.4	37.91	NaN	3.37	10369	780970	40152	5.14	5190	12.93	120298	33184	32222	27.58	31.99	7134	21.5	+	0.32322	0.49362	0.22372	0.3549	
+A14-07110	xylose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5166	48281	0	54149	42269	0	11880	16391	15992	0	399	30.27	37.83	NaN	3.36	10447	785456	39806	5.07	5039	12.66	121370	33301	32530	27.44	31.68	7031	21.11	+	0.32914	0.5007	0.22654	0.35916	
+A14-07111	xylose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5112	47177	0	52953	41229	0	11724	15982	15576	0	406	30.18	37.78	NaN	3.46	10181	765357	39063	5.1	4842	12.4	118989	32852	32052	27.61	31.9	6618	20.14	+	0.33239	0.50663	0.22682	0.35094	
+A14-07113	mannose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5374	49531	0	55390	43484	0	11906	17079	16657	0	422	30.83	38.31	NaN	3.54	10564	783422	40613	5.18	5414	13.33	119343	33752	32956	28.28	33.33	7592	22.49	+	0.3198	0.48638	0.22187	0.3534	
+A14-07114	mannose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5383	49681	0	55301	43829	0	11472	17104	16685	0	419	30.93	38.07	NaN	3.65	10750	800790	41134	5.14	5283	12.84	122652	34372	33618	28.02	32.64	7419	21.58	+	0.32778	0.49888	0.22774	0.35873	
+A14-07115	mannose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5362	49519	0	55184	43612	0	11572	16759	16363	0	396	30.37	37.52	NaN	3.42	10687	794488	40880	5.15	5277	12.91	122770	34243	33485	27.89	32.6	7304	21.33	+	0.33471	0.50837	0.23123	0.36412	
+A14-07117	galactose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5128	47474	0	53253	41515	0	11738	16691	16319	0	372	31.34	39.31	NaN	3.17	10826	784461	39579	5.05	4664	11.78	124022	33166	32392	26.74	31.05	6570	19.81	+	0.35422	0.53201	0.24613	0.38587	
+A14-07118	galactose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5145	48280	0	54024	42320	0	11704	16547	16197	0	350	30.63	38.27	NaN	2.99	10567	794076	40225	5.07	4896	12.17	126120	33700	32878	26.72	31.03	6890	20.45	+	0.33918	0.51188	0.23409	0.36365	
+A14-07119	galactose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5166	48676	0	54328	42816	0	11512	17286	16904	0	382	31.82	39.48	NaN	3.32	11038	792049	40498	5.11	4973	12.28	124482	34068	33285	27.37	31.63	6940	20.37	+	0.33897	0.51101	0.23563	0.36904	
+A14-07121	succinate rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5269	48907	0	54701	42875	0	11826	17179	16814	0	365	31.41	39.22	NaN	3.09	10637	788914	40415	5.12	5162	12.77	123082	33662	32833	27.35	31.93	7193	21.37	+	0.33852	0.51933	0.23542	0.37236	
+A14-07122	succinate rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5273	50020	0	55916	43908	0	12008	17451	17051	0	400	31.21	38.83	NaN	3.33	10867	791044	41356	5.23	5289	12.79	122805	34352	33529	27.97	32.58	7436	21.65	+	0.33473	0.51165	0.2345	0.37373	
+A14-07123	succinate rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5232	49108	0	55069	42871	0	12198	17231	16812	0	419	31.29	39.22	NaN	3.43	10883	784450	40494	5.16	5096	12.58	123373	33874	33088	27.46	31.88	7046	20.8	+	0.33404	0.50125	0.23232	0.36273	
+A14-07125	fructose rep1	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5151	47833	0	53711	41733	0	11978	16587	16150	0	437	30.88	38.7	NaN	3.65	10434	781858	39533	5.06	4947	12.51	122966	33048	32270	26.88	31.23	6912	20.92	+	0.34002	0.51071	0.23692	0.37222	
+A14-07126	fructose rep2	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5319	49308	0	55172	43208	0	11964	17153	16774	0	379	31.09	38.82	NaN	3.17	10728	779729	40672	5.22	5199	12.78	121431	33871	33126	27.89	32.66	7308	21.58	+	0.32922	0.49451	0.22968	0.35985	
+A14-07127	fructose rep3	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term)			False	False	1	2		Standard		5204	48684	0	54422	42750	0	11672	17310	16902	0	408	31.81	39.54	NaN	3.5	10854	800269	40360	5.04	5034	12.47	126225	33771	32987	26.75	31.03	7124	21.1	+	0.33212	0.50147	0.23143	0.36176	
+42°C rep1																																9775																		
+42°C rep2																																9064																		
+42°C rep3																																10193																		
+50 mM NaCl rep1																																9642																		
+50 mM NaCl rep2																																10196																		
+50 mM NaCl rep3																																10032																		
+acetate rep1																																11221																		
+acetate rep2																																11193																		
+acetate rep3																																11184																		
+anaerobic rep1																																10024																		
+anaerobic rep2																																8736																		
+anaerobic rep3																																9073																		
+chemostat µ=0.12 rep1																																11525																		
+chemostat µ=0.12 rep2																																11493																		
+chemostat µ=0.12 rep3																																11676																		
+chemostat µ=0.20 rep1																																11178																		
+chemostat µ=0.20 rep2																																11814																		
+chemostat µ=0.20 rep3																																11982																		
+chemostat µ=0.35 rep1																																11849																		
+chemostat µ=0.35 rep2																																11997																		
+chemostat µ=0.35 rep3																																11406																		
+chemostat µ=0.5 rep1																																11829																		
+chemostat µ=0.5 rep2																																11928																		
+chemostat µ=0.5 rep3																																11497																		
+fructose rep1																																10434																		
+fructose rep2																																10728																		
+fructose rep3																																10854																		
+fumarate rep1																																11304																		
+fumarate rep2																																11365																		
+fumarate rep3																																11503																		
+galactose rep1																																10826																		
+galactose rep2																																10567																		
+galactose rep3																																11038																		
+glucosamine rep1																																11414																		
+glucosamine rep2																																11323																		
+glucosamine rep3																																10821																		
+glucose rep1																																12555																		
+glucose rep2																																12892																		
+glucose rep3																																12777																		
+glycerol + AA rep1																																11054																		
+glycerol + AA rep2																																10675																		
+glycerol + AA rep3																																11426																		
+glycerol rep1																																11017																		
+glycerol rep2																																11024																		
+glycerol rep3																																11271																		
+LB rep1																																10966																		
+LB rep2																																10605																		
+LB rep3																																10552																		
+mannose rep1																																10564																		
+mannose rep2																																10750																		
+mannose rep3																																10687																		
+MG1665 glucose rep1																																11040																		
+MG1665 glucose rep2																																10873																		
+MG1665 glucose rep3																																10547																		
+MG1665 LB rep1																																10332																		
+MG1665 LB rep2																																10701																		
+MG1665 LB rep3																																10207																		
+NCM3722 glucose rep1																																10865																		
+NCM3722 glucose rep2																																11046																		
+NCM3722 glucose rep3																																10964																		
+NCM3722 LB rep1																																10374																		
+NCM3722 LB rep2																																10475																		
+NCM3722 LB rep3																																10326																		
+pH 6 rep1																																10331																		
+pH 6 rep2																																10441																		
+pH 6 rep3																																10372																		
+pyruvate rep1																																10945																		
+pyruvate rep2																																11592																		
+pyruvate rep3																																11200																		
+stationary 1 day rep1																																9332																		
+stationary 1 day rep2																																9235																		
+stationary 1 day rep3																																8993																		
+stationary 3 days rep1																																9765																		
+stationary 3 days rep2																																9223																		
+stationary 3 days rep3																																9970																		
+succinate rep1																																10637																		
+succinate rep2																																10867																		
+succinate rep3																																10883																		
+xylose rep1																																10369																		
+xylose rep2																																10447																		
+xylose rep3																																10181																		
+Total																	429954	3985536	0	4439172	3518720	0	920452	1373854	1343738	0	30116	30.95	38.19	NaN	3.27	25531	66981889					10842517	2867591	2800156	26.45	31.15	519136	18.1		0.32989	0.49978	0.22902	0.35943	

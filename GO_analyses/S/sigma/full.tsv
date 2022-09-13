@@ -1,0 +1,13 @@
+go-name	term	setsize	num.sig	fdr	pval	direction	median_z_target	median_z_bg	expected	target_dist	background_dist
+Sigma70, Sigma38	Sigma70, Sigma38	41	41	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma70, Sigma24	Sigma70, Sigma24	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma70, Sigma54	Sigma70, Sigma54	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma70	Sigma70	584	584	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma32	Sigma32	56	56	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma54	Sigma54	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma24	Sigma24	51	51	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma38, Sigma70	Sigma38, Sigma70	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma32, Sigma70	Sigma32, Sigma70	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma38	Sigma38	65	65	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma28	Sigma28	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+Sigma19	Sigma19	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null

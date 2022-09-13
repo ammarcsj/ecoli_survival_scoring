@@ -1,0 +1,214 @@
+go-name	term	setsize	num.sig	fdr	pval	direction	median_z_target	median_z_bg	expected	target_dist	background_dist
+organic acid transmembrane transporter activity	GO:0005342	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside phosphate binding	GO:1901265	166	166	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+molecular function regulator	GO:0098772	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+enzyme regulator activity	GO:0030234	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+macromolecular complex binding	GO:0044877	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sequence-specific DNA binding	GO:0043565	54	54	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+endopeptidase activity	GO:0004175	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside binding	GO:0001882	100	100	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine nucleoside binding	GO:0001883	98	98	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+magnesium ion binding	GO:0000287	89	89	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic acid binding	GO:0031406	31	31	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleoside-triphosphatase activity	GO:0017111	96	96	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine nucleotide binding	GO:0017076	100	100	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sequence-specific double-stranded DNA binding	GO:1990837	41	41	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+rRNA binding	GO:0019843	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+vitamin binding	GO:0019842	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cation-transporting ATPase activity	GO:0019829	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+coenzyme binding	GO:0050662	56	56	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+flavin adenine dinucleotide binding	GO:0050660	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+molecular transducer activity	GO:0060089	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate derivative binding	GO:0097367	129	129	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transporter activity	GO:0005215	127	127	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+enzyme binding	GO:0019899	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+structural molecule activity	GO:0005198	48	48	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+manganese ion binding	GO:0030145	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+serine hydrolase activity	GO:0017171	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATPase activity, coupled to movement of substances	GO:0043492	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyridoxal phosphate binding	GO:0030170	36	36	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+acetyltransferase activity	GO:0016407	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sulfur compound transmembrane transporter activity	GO:1901682	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sulfur compound binding	GO:1901681	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity	GO:0016491	191	191	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monosaccharide transmembrane transporter activity	GO:0015145	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate transmembrane transporter activity	GO:0015144	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+pyrophosphatase activity	GO:0016462	116	116	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oligopeptide transporter activity	GO:0015198	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptide transporter activity	GO:0015197	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+L-amino acid transmembrane transporter activity	GO:0015179	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+neutral amino acid transmembrane transporter activity	GO:0015175	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amino acid transmembrane transporter activity	GO:0015171	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonuclease activity	GO:0004540	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+deoxyribonuclease activity	GO:0004536	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, hydrolyzing O-glycosyl compounds	GO:0004553	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+endodeoxyribonuclease activity	GO:0004520	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+endoribonuclease activity	GO:0004521	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+endonuclease activity	GO:0004519	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nuclease activity	GO:0004518	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+exonuclease activity	GO:0004527	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+drug transmembrane transporter activity	GO:0015238	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+identical protein binding	GO:0042802	280	280	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptidase activity, acting on L-amino acid peptides	GO:0070011	50	50	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+porin activity	GO:0015288	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+channel activity	GO:0015267	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+antiporter activity	GO:0015297	3	3	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+solute:proton symporter activity	GO:0015295	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+solute:cation symporter activity	GO:0015294	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+symporter activity	GO:0015293	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+secondary active transmembrane transporter activity	GO:0015291	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amide transmembrane transporter activity	GO:0042887	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transcription regulatory region sequence-specific DNA binding	GO:0000976	39	39	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulatory region DNA binding	GO:0000975	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+core promoter proximal region sequence-specific DNA binding	GO:0000987	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+bacterial-type RNA polymerase core promoter proximal region sequence-specific DNA binding	GO:0000986	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+bacterial-type RNA polymerase regulatory region sequence-specific DNA binding	GO:0000984	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleoside triphosphate binding	GO:0035639	91	91	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate derivative transporter activity	GO:1901505	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oligopeptide transmembrane transporter activity	GO:0035673	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphoric diester hydrolase activity	GO:0008081	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+DNA-dependent ATPase activity	GO:0008094	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+drug transporter activity	GO:0090484	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+iron ion binding	GO:0005506	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate transporter activity	GO:1901476	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATP binding	GO:0005524	79	79	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+adenyl nucleotide binding	GO:0030554	83	83	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+electron carrier activity	GO:0009055	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+kinase activity	GO:0016301	71	71	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+helicase activity	GO:0004386	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrogen ion transmembrane transporter activity	GO:0015078	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+monovalent inorganic cation transmembrane transporter activity	GO:0015077	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ion transmembrane transporter activity	GO:0015075	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATPase coupled ion transmembrane transporter activity	GO:0042625	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATPase activity, coupled to transmembrane movement of substances	GO:0042626	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATPase activity, coupled	GO:0042623	58	58	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphoric ester hydrolase activity	GO:0042578	42	42	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+FMN binding	GO:0010181	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ATPase activity	GO:0016887	74	74	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ligase activity, forming aminoacyl-tRNA and related compounds	GO:0016876	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ligase activity, forming carbon-nitrogen bonds	GO:0016879	41	41	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intramolecular transferase activity	GO:0016866	29	29	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ligase activity	GO:0016874	72	72	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ligase activity, forming carbon-oxygen bonds	GO:0016875	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+racemase and epimerase activity	GO:0016854	14	14	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+racemase and epimerase activity, acting on carbohydrates and derivatives	GO:0016857	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intramolecular oxidoreductase activity	GO:0016860	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+intramolecular oxidoreductase activity, interconverting aldoses and ketoses	GO:0016861	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+guanyl nucleotide binding	GO:0019001	22	22	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cation transmembrane transporter activity	GO:0008324	47	47	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aminoacyl-tRNA ligase activity	GO:0004812	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+heme binding	GO:0020037	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+isomerase activity	GO:0016853	76	76	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+aldehyde-lyase activity	GO:0016832	10	10	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbon-oxygen lyase activity	GO:0016835	43	43	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydro-lyase activity	GO:0016836	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+receptor activity	GO:0004872	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+signal transducer activity	GO:0004871	23	23	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+lyase activity	GO:0016829	94	94	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbon-carbon lyase activity	GO:0016830	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxy-lyase activity	GO:0016831	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	GO:0016810	30	30	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	GO:0016811	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, acting on acid anhydrides	GO:0016817	116	116	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	GO:0016818	116	116	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	GO:0016820	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+double-stranded DNA binding	GO:0003690	48	48	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+bacterial-type RNA polymerase regulatory region DNA binding	GO:0001017	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleic acid binding	GO:0003676	187	187	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+DNA binding	GO:0003677	116	116	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleic acid binding transcription factor activity	GO:0001071	57	57	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+regulatory region nucleic acid binding	GO:0001067	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+passive transmembrane transporter activity	GO:0022803	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+active transmembrane transporter activity	GO:0022804	61	61	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic anion transmembrane transporter activity	GO:0008514	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+anion transmembrane transporter activity	GO:0008509	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carbohydrate kinase activity	GO:0019200	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+wide pore channel activity	GO:0022829	6	6	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ammonium transmembrane transporter activity	GO:0008519	5	5	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic ester hydrolase activity	GO:0052689	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transaminase activity	GO:0008483	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity, acting on the aldehyde or oxo group of donors	GO:0016903	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+dipeptide transporter activity	GO:0042936	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity, acting on NAD(P)H	GO:0016651	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein kinase activity	GO:0004672	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein histidine kinase activity	GO:0004673	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity, acting on the CH-CH group of donors	GO:0016627	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity, acting on CH-OH group of donors	GO:0016614	56	56	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	GO:0016616	52	52	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity, acting on a sulfur group of donors	GO:0016667	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+oxidoreductase activity, acting on other nitrogenous compounds as donors	GO:0016661	2	2	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+primary active transmembrane transporter activity	GO:0015399	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+signaling receptor activity	GO:0038023	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+protein-phosphocysteine-sugar phosphotransferase activity	GO:0090563	8	8	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ferrous iron binding	GO:0008198	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+methyltransferase activity	GO:0008168	44	44	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA methyltransferase activity	GO:0008173	28	28	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring nitrogenous groups	GO:0016769	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring phosphorus-containing groups	GO:0016772	126	126	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphotransferase activity, alcohol group as acceptor	GO:0016773	56	56	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphotransferase activity, nitrogenous group as acceptor	GO:0016775	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring glycosyl groups	GO:0016757	41	41	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring hexosyl groups	GO:0016758	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring pentosyl groups	GO:0016763	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring alkyl or aryl (other than methyl) groups	GO:0016765	24	24	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring acyl groups	GO:0016746	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring acyl groups other than amino-acyl groups	GO:0016747	38	38	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+P-P-bond-hydrolysis-driven transmembrane transporter activity	GO:0015405	35	35	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transferase activity, transferring one-carbon groups	GO:0016741	51	51	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, acting on ester bonds	GO:0016788	91	91	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphatase activity	GO:0016791	29	29	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters	GO:0016796	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+hydrolase activity, acting on glycosyl bonds	GO:0016798	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleotidyltransferase activity	GO:0016779	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+sugar transmembrane transporter activity	GO:0051119	7	7	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+serine-type peptidase activity	GO:0008236	17	17	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptidase activity	GO:0008233	52	52	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+exopeptidase activity	GO:0008238	25	25	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+metallopeptidase activity	GO:0008237	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+amide binding	GO:0033218	20	20	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+zinc ion binding	GO:0008270	74	74	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cofactor binding	GO:0048037	117	117	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+small molecule binding	GO:0036094	207	207	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+GTPase activity	GO:0003924	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+NADH dehydrogenase activity	GO:0003954	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+cation binding	GO:0043169	241	241	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+anion binding	GO:0043168	235	235	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+organic acid binding	GO:0043177	31	31	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphorelay response regulator activity	GO:0000156	11	11	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+nucleotide binding	GO:0000166	166	166	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+peptide transmembrane transporter activity	GO:1904680	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+guanyl ribonucleotide binding	GO:0032561	21	21	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+adenyl ribonucleotide binding	GO:0032559	82	82	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleotide binding	GO:0032553	122	122	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleotide binding	GO:0032555	99	99	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+purine ribonucleoside binding	GO:0032550	98	98	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoside binding	GO:0032549	99	99	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+phosphorelay sensor kinase activity	GO:0000155	9	9	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+core promoter proximal region DNA binding	GO:0001159	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+bacterial-type RNA polymerase transcription factor activity, sequence-specific DNA binding	GO:0001130	31	31	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+tetrapyrrole binding	GO:0046906	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transition metal ion binding	GO:0046914	130	130	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transition metal ion transmembrane transporter activity	GO:0046915	13	13	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+rRNA methyltransferase activity	GO:0008649	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+inorganic cation transmembrane transporter activity	GO:0022890	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+substrate-specific transmembrane transporter activity	GO:0022891	99	99	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+substrate-specific transporter activity	GO:0022892	115	115	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+metal ion binding	GO:0046872	231	231	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transcription regulatory region DNA binding	GO:0044212	40	40	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+metal ion transmembrane transporter activity	GO:0046873	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transmembrane transporter activity	GO:0022857	108	108	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+active ion transmembrane transporter activity	GO:0022853	15	15	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+RNA binding	GO:0003723	77	77	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+structural constituent of ribosome	GO:0003735	47	47	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+transcription factor activity, sequence-specific DNA binding	GO:0003700	53	53	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+4 iron, 4 sulfur cluster binding	GO:0051539	33	33	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+iron-sulfur cluster binding	GO:0051536	39	39	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+2 iron, 2 sulfur cluster binding	GO:0051537	12	12	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+metal cluster binding	GO:0051540	39	39	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+S-adenosylmethionine-dependent methyltransferase activity	GO:0008757	37	37	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribosome binding	GO:0043022	16	16	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+ribonucleoprotein complex binding	GO:0043021	27	27	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+carboxylic acid transmembrane transporter activity	GO:0046943	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+dipeptide transmembrane transporter activity	GO:0071916	4	4	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+bacterial-type RNA polymerase transcriptional repressor activity, sequence-specific DNA binding	GO:0001217	19	19	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
+bacterial-type RNA polymerase transcriptional activator activity, sequence-specific DNA binding	GO:0001216	18	18	1.000	1.000	0.000e+00	0.000e+00	0.000e+00	0.000e+00	null	null
