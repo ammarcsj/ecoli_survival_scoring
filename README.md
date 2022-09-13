@@ -4,7 +4,7 @@ This repository contains the code as well as the necessary data to re-create the
 
 
 
-<figure><img src="data/figures/method_box.jpg" width="50%"><figcaption>Summary of the steps performed in scoring the proteins. See manuscript for a detailed description.</figcaption></figure>
+<figure><img src="data/figures/method_box.jpg" width="70%"><figcaption>Summary of the steps performed in scoring the proteins. See manuscript for a detailed description.</figcaption></figure>
 
 ### Repository contents
 
