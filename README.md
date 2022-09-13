@@ -3,9 +3,8 @@
 This repository contains the code as well as the necessary data to re-create the Bioinformatics analyses in the manuscript  <em>Analysis of proteome adaptation reveals a key role of the bacterial envelope in starvation survival.</em> by [Schink et al.](https://www.biorxiv.org/content/10.1101/2022.05.18.492425v1.abstract). To this end, multiple proteomics dataset are analysed in order to determine proteins that show overall correlation with starvation survival.
 
 
-&nbsp;
 
-<img src="data/figures/method_box.pdf" width="70%">
+<figure><img src="data/figures/method_box.pdf"><figcaption>image caption</figcaption></figure>
 
 ### Repository contents
 
@@ -17,7 +16,11 @@ This repository contains the code as well as the necessary data to re-create the
 
 * code folder: Contains Jupyter Notebooks (and some helper classes in Python files) that create the results tables of the study.
 
-### Requirements
+### Re-creating the analyses
+If you only want to inspect the data, click on the green "Code" button on the upper right and select "Download Zip". After you have downloaded the zip file, you can unpack it and navigate through the data with your standard file browser.
+If you additionally want to run the code, install Python and the necessary packages as detailed below and then follow the instuctions given in the Jupyter Notebooks. The Notebooks are enumerated and you can follow the order indicated there.
+
+### Code requirements
 The code has been tested using Python 3.8 using the additional python packages numpy and pandas as well as jupyter. We recommend installing [the Conda package management system for Python](https://www.anaconda.com/products/distribution) and then creating an environment. This can be done by typing the following commands in the command prompt (after installation of Conda):
 
 ```bash
@@ -28,4 +31,5 @@ pip install numpy
 pip install jupyter
 ```
 
-After this, the Jupyter notebooks can be executed. In case you are new to Jupyter Notebooks, see for example [this tutorial](https://realpython.com/jupyter-notebook-introduction/) for details.
+After this, the Jupyter notebooks can be executed. In case you are new to Jupyter Notebooks, see for example [this tutorial](https://realpython.com/jupyter-notebook-introduction/).
+
